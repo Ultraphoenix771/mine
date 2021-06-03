@@ -1,2 +1,4 @@
 Minecarft is a sandbox game with an intresting story.
 It has a main character called steve and the main endgoal is to defeat the ender dragon.
+Steve is dropped into a random place in the main dimension called the overworld.
+He has to collect resources , build a base , find a way to the ender dragon , and defeat it.
